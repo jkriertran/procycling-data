@@ -1,0 +1,14 @@
+label,year,team_name,checkpoint_name,snapshot_points,snapshot_rank,comparison_set
+Unibet 2026,2026,UNIBET ROSE ROCKETS (URR),07/04/2026,2536.0,21,current
+2022 best ProTeam #1,2022,ALPECIN-FENIX	 (AFC),12/04/2022,3500.0,6,historical_best_proteam
+2022 best ProTeam #2,2022,UNO-X PRO CYCLING TEAM (UXT),12/04/2022,1173.0,20,historical_best_proteam
+2022 best ProTeam #3,2022,TEAM ARKEA - SAMSIC (ARK),12/04/2022,3958.0,4,historical_best_proteam
+2023 best ProTeam #1,2023,UNO-X PRO CYCLING TEAM (UXT),11/04/2023,1378.0,21,historical_best_proteam
+2023 best ProTeam #2,2023,LOTTO DSTNY (LTD),11/04/2023,4171.0,11,historical_best_proteam
+2023 best ProTeam #3,2023,ISRAEL - PREMIER TECH (IPT),11/04/2023,2719.0,15,historical_best_proteam
+2024 best ProTeam #1,2024,UNO-X MOBILITY (UXM),09/04/2024,1917.0,20,historical_best_proteam
+2024 best ProTeam #2,2024,LOTTO DSTNY (LTD),09/04/2024,3590.0,12,historical_best_proteam
+2024 best ProTeam #3,2024,ISRAEL - PREMIER TECH (IPT),09/04/2024,3091.0,15,historical_best_proteam
+2025 best ProTeam #1,2025,UNO-X MOBILITY (UXM),08/04/2025,3177.0,10,historical_best_proteam
+2025 best ProTeam #2,2025,TUDOR PRO CYCLING TEAM (TUD),08/04/2025,2344.0,17,historical_best_proteam
+2025 best ProTeam #3,2025,ISRAEL - PREMIER TECH (IPT),08/04/2025,2503.0,13,historical_best_proteam

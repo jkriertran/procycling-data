@@ -1,0 +1,13 @@
+year,best_proteam_order,team_name,proteam_rank,season_points,checkpoint_name,snapshot_team_name,snapshot_points,snapshot_rank,match_quality
+2022,1,Alpecin - Deceuninck,1,7051.0,12/04/2022,ALPECIN-FENIX	 (AFC),3500.0,6,fuzzy
+2022,2,Uno-X Pro Cycling Team,2,5383.0,12/04/2022,UNO-X PRO CYCLING TEAM (UXT),1173.0,20,exact
+2022,3,Team Arkéa Samsic,3,3853.0,12/04/2022,TEAM ARKEA - SAMSIC (ARK),3958.0,4,fuzzy
+2023,1,Uno-X Pro Cycling Team,1,6041.0,11/04/2023,UNO-X PRO CYCLING TEAM (UXT),1378.0,21,exact
+2023,2,Lotto Dstny,2,5885.0,11/04/2023,LOTTO DSTNY (LTD),4171.0,11,exact
+2023,3,Israel - Premier Tech,3,4529.0,11/04/2023,ISRAEL - PREMIER TECH (IPT),2719.0,15,exact
+2024,1,Uno-X Mobility,1,7660.0,09/04/2024,UNO-X MOBILITY (UXM),1917.0,20,exact
+2024,2,Lotto Dstny,2,6176.0,09/04/2024,LOTTO DSTNY (LTD),3590.0,12,exact
+2024,3,Israel - Premier Tech,3,6098.0,09/04/2024,ISRAEL - PREMIER TECH (IPT),3091.0,15,exact
+2025,1,Uno-X Mobility,1,7146.0,08/04/2025,UNO-X MOBILITY (UXM),3177.0,10,exact
+2025,2,Tudor Pro Cycling Team,2,6431.0,08/04/2025,TUDOR PRO CYCLING TEAM (TUD),2344.0,17,exact
+2025,3,Israel - Premier Tech,3,6418.0,08/04/2025,ISRAEL - PREMIER TECH (IPT),2503.0,13,exact
